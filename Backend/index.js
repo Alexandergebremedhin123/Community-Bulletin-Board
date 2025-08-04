@@ -34,7 +34,7 @@ app.use('/auth',authRoutes)
 app.use('/forumboard',forumboardRoutes)
 
 
-app.listen(port,()=>{
+app.listen(port, '0.0.0.0',()=>{
   console.log(`listening on port ${port}`)
 })
 
