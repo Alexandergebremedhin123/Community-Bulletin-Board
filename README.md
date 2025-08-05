@@ -1,5 +1,6 @@
-[community-bulletin-board.vercel.app] 
-here is the frontend of the project
+This is the project demo
+community-bulletin-board.vercel.app
+what it includes
 Bulletin Board
 Admin
 User
