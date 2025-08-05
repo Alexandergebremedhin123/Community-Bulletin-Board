@@ -1,5 +1,7 @@
 This is the project demo
-community-bulletin-board.vercel.app
+
+[community-bulletin-board.vercel.app]
+
 what it includes
 Bulletin Board
 Admin
